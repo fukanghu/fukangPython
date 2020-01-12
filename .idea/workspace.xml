@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb7ca2c7-9c59-444d-9858-ef80332ebe0b" name="Default Changelist" comment="by fukang">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/调试/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/调试/note.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\fukan\PycharmProjects\fukangPython\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VnNRoUlPaPRI60CjBy9Cn4Njcu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\fukan\PycharmProjects\fukangPython\高级_包管理" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.01">
+    <configuration name="01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="fukangPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/调试" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/调试/01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="p07" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="fukangPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/高级_包管理" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/高级_包管理/p07.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="p08" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="fukangPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/高级_包管理" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/高级_包管理/p08.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="p09" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="fukangPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/高级_包管理" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/高级_包管理/p09.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="p10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="fukangPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/高级_包管理" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/高级_包管理/p10.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.01" />
+        <item itemvalue="Python.p10" />
+        <item itemvalue="Python.p09" />
+        <item itemvalue="Python.p08" />
+        <item itemvalue="Python.p07" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb7ca2c7-9c59-444d-9858-ef80332ebe0b" name="Default Changelist" comment="" />
+      <created>1577884893468</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577884893468</updated>
+    </task>
+    <task id="LOCAL-00001" summary="by fukang">
+      <created>1577983422145</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577983422145</updated>
+    </task>
+    <task id="LOCAL-00002" summary="by fukang">
+      <created>1577984148436</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577984148436</updated>
+    </task>
+    <task id="LOCAL-00003" summary="by fukang">
+      <created>1577984196475</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1577984196475</updated>
+    </task>
+    <task id="LOCAL-00004" summary="by fukang">
+      <created>1577984257806</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1577984257806</updated>
+    </task>
+    <task id="LOCAL-00005" summary="by fukang">
+      <created>1578068687820</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1578068687820</updated>
+    </task>
+    <task id="LOCAL-00006" summary="by fukang">
+      <created>1578068744183</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1578068744183</updated>
+    </task>
+    <task id="LOCAL-00007" summary="by fukang">
+      <created>1578160161633</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1578160161633</updated>
+    </task>
+    <task id="LOCAL-00008" summary="by fukang">
+      <created>1578209581320</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1578209581320</updated>
+    </task>
+    <task id="LOCAL-00009" summary="by fukang">
+      <created>1578240035874</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1578240035874</updated>
+    </task>
+    <task id="LOCAL-00010" summary="by fukang">
+      <created>1578326109483</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1578326109483</updated>
+    </task>
+    <task id="LOCAL-00011" summary="by fukang">
+      <created>1578413639354</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1578413639354</updated>
+    </task>
+    <task id="LOCAL-00012" summary="by fukang">
+      <created>1578491436649</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1578491436649</updated>
+    </task>
+    <task id="LOCAL-00013" summary="by fukang">
+      <created>1578499009265</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1578499009265</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="by fukang" />
+    <option name="LAST_COMMIT_MESSAGE" value="by fukang" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="556" y="99" key="#Vim_Emulation" timestamp="1578150309983">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="556" y="99" key="#Vim_Emulation/0.0.1368.872@0.0.1368.872" timestamp="1578150309983" />
+    <state x="439" y="240" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578839059807">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="439" y="240" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1368.872@0.0.1368.872" timestamp="1578839059807" />
+    <state x="338" y="30" key="CommitChangelistDialog2" timestamp="1578579051260">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="338" y="30" key="CommitChangelistDialog2/0.0.1368.872@0.0.1368.872" timestamp="1578579051260" />
+    <state x="728" y="337" key="FileChooserDialogImpl" timestamp="1577982629902">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="728" y="337" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1577982629902" />
+    <state x="860" y="351" width="355" height="170" key="Github.CreateGistDialog" timestamp="1577982662083">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="860" y="351" width="355" height="170" key="Github.CreateGistDialog/0.0.1368.872@0.0.1368.872" timestamp="1577982662083" />
+    <state x="552" y="328" key="Github.ShareDialog" timestamp="1577982980856">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="552" y="328" key="Github.ShareDialog/0.0.1368.872@0.0.1368.872" timestamp="1577982980856" />
+    <state x="492" y="141" key="Github.UntrackedFilesDialog" timestamp="1577982999613">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="492" y="141" key="Github.UntrackedFilesDialog/0.0.1368.872@0.0.1368.872" timestamp="1577982999613" />
+    <state width="661" height="277" key="GridCell.Tab.0.bottom" timestamp="1578841975382">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="661" height="277" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1578841975382" />
+    <state width="661" height="277" key="GridCell.Tab.0.center" timestamp="1578841975382">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="661" height="277" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1578841975382" />
+    <state width="661" height="277" key="GridCell.Tab.0.left" timestamp="1578841975382">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="661" height="277" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1578841975382" />
+    <state width="661" height="277" key="GridCell.Tab.0.right" timestamp="1578841975382">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="661" height="277" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1578841975382" />
+    <state width="661" height="277" key="GridCell.Tab.1.bottom" timestamp="1578841973447">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="661" height="277" key="GridCell.Tab.1.bottom/0.0.1368.872@0.0.1368.872" timestamp="1578841973447" />
+    <state width="661" height="277" key="GridCell.Tab.1.center" timestamp="1578841973446">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="661" height="277" key="GridCell.Tab.1.center/0.0.1368.872@0.0.1368.872" timestamp="1578841973446" />
+    <state width="661" height="277" key="GridCell.Tab.1.left" timestamp="1578841973446">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="661" height="277" key="GridCell.Tab.1.left/0.0.1368.872@0.0.1368.872" timestamp="1578841973446" />
+    <state width="661" height="277" key="GridCell.Tab.1.right" timestamp="1578841973446">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="661" height="277" key="GridCell.Tab.1.right/0.0.1368.872@0.0.1368.872" timestamp="1578841973446" />
+    <state x="93" y="152" width="912" height="711" key="SettingsEditor" timestamp="1578150282021">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="93" y="152" width="912" height="711" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1578150282021" />
+    <state x="277" y="170" key="Vcs.Push.Dialog.v2" timestamp="1578579094900">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="277" y="170" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1578579094900" />
+    <state x="722" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1578838999221">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="722" y="262" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1578838999221" />
+    <state x="483" y="125" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1577885125840">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="483" y="125" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1368.872@0.0.1368.872" timestamp="1577885125840" />
+    <state x="834" y="357" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578064505575">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="834" y="357" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1368.872@0.0.1368.872" timestamp="1578064505575" />
+    <state x="351" y="184" width="672" height="678" key="search.everywhere.popup" timestamp="1578497871263">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="351" y="184" width="672" height="678" key="search.everywhere.popup/0.0.1368.872@0.0.1368.872" timestamp="1578497871263" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/调试/01.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
