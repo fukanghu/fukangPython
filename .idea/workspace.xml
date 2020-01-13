@@ -36,6 +36,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -282,10 +283,25 @@
       <option name="project" value="LOCAL" />
       <updated>1578842762801</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="by fukang">
+      <created>1578930831453</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1578930831453</updated>
+    </task>
+    <task id="LOCAL-00016" summary="by fukang">
+      <created>1578930935596</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1578930935596</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="by fukang" />
     <option name="LAST_COMMIT_MESSAGE" value="by fukang" />
   </component>
@@ -298,10 +314,10 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="439" y="240" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1368.872@0.0.1368.872" timestamp="1578839059807" />
-    <state x="338" y="30" key="CommitChangelistDialog2" timestamp="1578930913729">
+    <state x="338" y="30" key="CommitChangelistDialog2" timestamp="1578930934908">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="338" y="30" key="CommitChangelistDialog2/0.0.1368.872@0.0.1368.872" timestamp="1578930913729" />
+    <state x="338" y="30" key="CommitChangelistDialog2/0.0.1368.872@0.0.1368.872" timestamp="1578930934908" />
     <state x="843" y="282" key="FileChooserDialogImpl" timestamp="1578926065335">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
@@ -354,14 +370,14 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="93" y="152" width="912" height="711" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1578927567120" />
-    <state x="277" y="170" key="Vcs.Push.Dialog.v2" timestamp="1578930834835">
+    <state x="277" y="170" key="Vcs.Push.Dialog.v2" timestamp="1578930939357">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="277" y="170" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1578930834835" />
-    <state x="722" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1578930731418">
+    <state x="277" y="170" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1578930939357" />
+    <state x="722" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1578933394025">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="722" y="262" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1578930731418" />
+    <state x="722" y="262" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1578933394025" />
     <state x="483" y="125" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1577885125840">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
