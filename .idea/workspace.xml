@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb7ca2c7-9c59-444d-9858-ef80332ebe0b" name="Default Changelist" comment="by fukang">
+    <list default="true" id="cb7ca2c7-9c59-444d-9858-ef80332ebe0b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/log/note.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -311,7 +312,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578933696667</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="by fukang">
+      <created>1579019311437</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1579019311437</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -328,10 +336,10 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="439" y="240" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1368.872@0.0.1368.872" timestamp="1578839059807" />
-    <state x="338" y="30" key="CommitChangelistDialog2" timestamp="1578933725786">
+    <state x="338" y="30" key="CommitChangelistDialog2" timestamp="1579019310572">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="338" y="30" key="CommitChangelistDialog2/0.0.1368.872@0.0.1368.872" timestamp="1578933725786" />
+    <state x="338" y="30" key="CommitChangelistDialog2/0.0.1368.872@0.0.1368.872" timestamp="1579019310572" />
     <state x="843" y="282" key="FileChooserDialogImpl" timestamp="1578926065335">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
@@ -384,10 +392,10 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="93" y="152" width="912" height="711" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1578933522392" />
-    <state x="277" y="170" key="Vcs.Push.Dialog.v2" timestamp="1578933701457">
+    <state x="277" y="170" key="Vcs.Push.Dialog.v2" timestamp="1579019314499">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="277" y="170" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1578933701457" />
+    <state x="277" y="170" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1579019314499" />
     <state x="722" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1579019225395">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
