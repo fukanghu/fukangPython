@@ -1,0 +1,50 @@
+DEBUG:root:This is a debug log.
+INFO:root:This is a info log.
+WARNING:root:This is a warning log.
+ERROR:root:This is a error log.
+CRITICAL:root:This is a critical log.
+DEBUG:root:This is a debug log.
+INFO:root:This is a info log.
+WARNING:root:This is a warning log.
+ERROR:root:This is a error log.
+CRITICAL:root:This is a critical log.
+2020-01-19 23:24:14,157=======DEBUG+++++++++(message)s
+2020-01-19 23:24:14,157=======INFO+++++++++(message)s
+2020-01-19 23:24:14,157=======WARNING+++++++++(message)s
+2020-01-19 23:24:14,158=======ERROR+++++++++(message)s
+2020-01-19 23:24:14,158=======CRITICAL+++++++++(message)s
+2020-01-19 23:24:14,158=======DEBUG+++++++++(message)s
+2020-01-19 23:24:14,158=======INFO+++++++++(message)s
+2020-01-19 23:24:14,158=======WARNING+++++++++(message)s
+2020-01-19 23:24:14,159=======ERROR+++++++++(message)s
+2020-01-19 23:24:14,159=======CRITICAL+++++++++(message)s
+2020-01-19 23:25:33,028=======DEBUG+++++++++&(message)s
+2020-01-19 23:25:33,028=======INFO+++++++++&(message)s
+2020-01-19 23:25:33,028=======WARNING+++++++++&(message)s
+2020-01-19 23:25:33,028=======ERROR+++++++++&(message)s
+2020-01-19 23:25:33,029=======CRITICAL+++++++++&(message)s
+2020-01-19 23:25:33,029=======DEBUG+++++++++&(message)s
+2020-01-19 23:25:33,029=======INFO+++++++++&(message)s
+2020-01-19 23:25:33,029=======WARNING+++++++++&(message)s
+2020-01-19 23:25:33,030=======ERROR+++++++++&(message)s
+2020-01-19 23:25:33,030=======CRITICAL+++++++++&(message)s
+2020-01-19 23:26:11,722=======DEBUG+++++++++This is a debug log.
+2020-01-19 23:26:11,722=======INFO+++++++++This is a info log.
+2020-01-19 23:26:11,722=======WARNING+++++++++This is a warning log.
+2020-01-19 23:26:11,722=======ERROR+++++++++This is a error log.
+2020-01-19 23:26:11,723=======CRITICAL+++++++++This is a critical log.
+2020-01-19 23:26:11,723=======DEBUG+++++++++This is a debug log.
+2020-01-19 23:26:11,723=======INFO+++++++++This is a info log.
+2020-01-19 23:26:11,723=======WARNING+++++++++This is a warning log.
+2020-01-19 23:26:11,723=======ERROR+++++++++This is a error log.
+2020-01-19 23:26:11,723=======CRITICAL+++++++++This is a critical log.
+2020-01-20 21:22:23,756=======DEBUG+++++++++This is a debug log.
+2020-01-20 21:22:23,757=======INFO+++++++++This is a info log.
+2020-01-20 21:22:23,758=======WARNING+++++++++This is a warning log.
+2020-01-20 21:22:23,758=======ERROR+++++++++This is a error log.
+2020-01-20 21:22:23,759=======CRITICAL+++++++++This is a critical log.
+2020-01-20 21:22:23,760=======DEBUG+++++++++This is a debug log.
+2020-01-20 21:22:23,760=======INFO+++++++++This is a info log.
+2020-01-20 21:22:23,760=======WARNING+++++++++This is a warning log.
+2020-01-20 21:22:23,760=======ERROR+++++++++This is a error log.
+2020-01-20 21:22:23,760=======CRITICAL+++++++++This is a critical log.

@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb7ca2c7-9c59-444d-9858-ef80332ebe0b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/log/note.md" afterDir="false" />
+    <list default="true" id="cb7ca2c7-9c59-444d-9858-ef80332ebe0b" name="Default Changelist" comment="by fukang">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/fukan.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/tulingxueyuan.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/log/note.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,15 +43,37 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\fukan\PycharmProjects\fukangPython\高级_包管理" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.01">
+  <component name="RunManager" selected="Python.02">
+    <configuration name="01 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="fukangPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/log" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/log/01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="fukangPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -69,7 +95,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="p07" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="fukangPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -77,32 +103,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/高级_包管理" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/log" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/高级_包管理/p07.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="p08" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="fukangPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/高级_包管理" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/高级_包管理/p08.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/log/02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.02" />
+        <item itemvalue="Python.01 (1)" />
         <item itemvalue="Python.01" />
         <item itemvalue="Python.p10" />
         <item itemvalue="Python.p09" />
-        <item itemvalue="Python.p08" />
-        <item itemvalue="Python.p07" />
       </list>
     </recent_temporary>
   </component>
@@ -319,7 +324,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579019311437</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="by fukang">
+      <created>1579019533535</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1579019533535</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -336,10 +348,10 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="439" y="240" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1368.872@0.0.1368.872" timestamp="1578839059807" />
-    <state x="338" y="30" key="CommitChangelistDialog2" timestamp="1579019310572">
+    <state x="338" y="30" key="CommitChangelistDialog2" timestamp="1579447569260">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="338" y="30" key="CommitChangelistDialog2/0.0.1368.872@0.0.1368.872" timestamp="1579019310572" />
+    <state x="338" y="30" key="CommitChangelistDialog2/0.0.1368.872@0.0.1368.872" timestamp="1579447569260" />
     <state x="843" y="282" key="FileChooserDialogImpl" timestamp="1578926065335">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
@@ -356,50 +368,50 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="492" y="141" key="Github.UntrackedFilesDialog/0.0.1368.872@0.0.1368.872" timestamp="1577982999613" />
-    <state width="1348" height="279" key="GridCell.Tab.0.bottom" timestamp="1578933797858">
+    <state width="661" height="276" key="GridCell.Tab.0.bottom" timestamp="1579526659119">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1348" height="279" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1578933797858" />
-    <state width="1348" height="279" key="GridCell.Tab.0.center" timestamp="1578933797858">
+    <state width="661" height="276" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1579526659119" />
+    <state width="661" height="276" key="GridCell.Tab.0.center" timestamp="1579526659118">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1348" height="279" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1578933797858" />
-    <state width="1348" height="279" key="GridCell.Tab.0.left" timestamp="1578933797858">
+    <state width="661" height="276" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1579526659118" />
+    <state width="661" height="276" key="GridCell.Tab.0.left" timestamp="1579526659118">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1348" height="279" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1578933797858" />
-    <state width="1348" height="279" key="GridCell.Tab.0.right" timestamp="1578933797858">
+    <state width="661" height="276" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1579526659118" />
+    <state width="661" height="276" key="GridCell.Tab.0.right" timestamp="1579526659118">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1348" height="279" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1578933797858" />
-    <state width="1348" height="279" key="GridCell.Tab.1.bottom" timestamp="1578933797858">
+    <state width="661" height="276" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1579526659118" />
+    <state width="661" height="276" key="GridCell.Tab.1.bottom" timestamp="1579526658995">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1348" height="279" key="GridCell.Tab.1.bottom/0.0.1368.872@0.0.1368.872" timestamp="1578933797858" />
-    <state width="1348" height="279" key="GridCell.Tab.1.center" timestamp="1578933797858">
+    <state width="661" height="276" key="GridCell.Tab.1.bottom/0.0.1368.872@0.0.1368.872" timestamp="1579526658995" />
+    <state width="661" height="276" key="GridCell.Tab.1.center" timestamp="1579526658995">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1348" height="279" key="GridCell.Tab.1.center/0.0.1368.872@0.0.1368.872" timestamp="1578933797858" />
-    <state width="1348" height="279" key="GridCell.Tab.1.left" timestamp="1578933797858">
+    <state width="661" height="276" key="GridCell.Tab.1.center/0.0.1368.872@0.0.1368.872" timestamp="1579526658995" />
+    <state width="661" height="276" key="GridCell.Tab.1.left" timestamp="1579526658995">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1348" height="279" key="GridCell.Tab.1.left/0.0.1368.872@0.0.1368.872" timestamp="1578933797858" />
-    <state width="1348" height="279" key="GridCell.Tab.1.right" timestamp="1578933797858">
+    <state width="661" height="276" key="GridCell.Tab.1.left/0.0.1368.872@0.0.1368.872" timestamp="1579526658995" />
+    <state width="661" height="276" key="GridCell.Tab.1.right" timestamp="1579526658995">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1348" height="279" key="GridCell.Tab.1.right/0.0.1368.872@0.0.1368.872" timestamp="1578933797858" />
-    <state x="93" y="152" width="912" height="711" key="SettingsEditor" timestamp="1578933522392">
+    <state width="661" height="276" key="GridCell.Tab.1.right/0.0.1368.872@0.0.1368.872" timestamp="1579526658995" />
+    <state x="93" y="152" width="912" height="711" key="SettingsEditor" timestamp="1579180581699">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="93" y="152" width="912" height="711" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1578933522392" />
-    <state x="277" y="170" key="Vcs.Push.Dialog.v2" timestamp="1579019314499">
+    <state x="93" y="152" width="912" height="711" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1579180581699" />
+    <state x="277" y="170" key="Vcs.Push.Dialog.v2" timestamp="1579019539730">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="277" y="170" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1579019314499" />
-    <state x="722" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1579019225395">
+    <state x="277" y="170" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1579019539730" />
+    <state x="722" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1579523214421">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="722" y="262" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1579019225395" />
+    <state x="722" y="262" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1579523214421" />
     <state x="483" y="125" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1577885125840">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
