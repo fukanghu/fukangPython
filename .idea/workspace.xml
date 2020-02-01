@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb7ca2c7-9c59-444d-9858-ef80332ebe0b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/多线程/01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/多线程/02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/多线程/03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/多线程/note.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多线程/04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多线程/05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多线程/06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多线程/07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多线程/08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多线程/09.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/多线程/note.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,29 +54,8 @@
       <recent name="C:\Users\fukan\PycharmProjects\fukangPython\高级_包管理" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.03">
-    <configuration name="01 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="fukangPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/log" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/log/01.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="01 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.09">
+    <configuration name="05" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="fukangPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -85,7 +67,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/多线程/01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/多线程/05.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,7 +76,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="06" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="fukangPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -106,7 +88,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/多线程/02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/多线程/06.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,28 +97,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="fukangPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/log" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/log/02.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="07" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="fukangPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -148,7 +109,49 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/多线程/03.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/多线程/07.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="08" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="fukangPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/多线程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/多线程/08.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="09" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="fukangPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/多线程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/多线程/09.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.03" />
-        <item itemvalue="Python.02 (1)" />
-        <item itemvalue="Python.01 (2)" />
-        <item itemvalue="Python.02" />
-        <item itemvalue="Python.01 (1)" />
+        <item itemvalue="Python.09" />
+        <item itemvalue="Python.08" />
+        <item itemvalue="Python.07" />
+        <item itemvalue="Python.06" />
+        <item itemvalue="Python.05" />
       </list>
     </recent_temporary>
   </component>
@@ -337,7 +340,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579526726813</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="by fukang">
+      <created>1579663283151</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1579663283152</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -354,10 +364,10 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="439" y="240" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1368.872@0.0.1368.872" timestamp="1579528912574" />
-    <state x="338" y="30" key="CommitChangelistDialog2" timestamp="1579526725831">
+    <state x="338" y="30" key="CommitChangelistDialog2" timestamp="1579663282290">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="338" y="30" key="CommitChangelistDialog2/0.0.1368.872@0.0.1368.872" timestamp="1579526725831" />
+    <state x="338" y="30" key="CommitChangelistDialog2/0.0.1368.872@0.0.1368.872" timestamp="1579663282290" />
     <state x="843" y="282" key="FileChooserDialogImpl" timestamp="1578926065335">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
@@ -374,50 +384,50 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="492" y="141" key="Github.UntrackedFilesDialog/0.0.1368.872@0.0.1368.872" timestamp="1577982999613" />
-    <state width="716" height="276" key="GridCell.Tab.0.bottom" timestamp="1579615421749">
+    <state width="716" height="276" key="GridCell.Tab.0.bottom" timestamp="1580546124560">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="716" height="276" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1579615421749" />
-    <state width="716" height="276" key="GridCell.Tab.0.center" timestamp="1579615421749">
+    <state width="716" height="276" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1580546124560" />
+    <state width="716" height="276" key="GridCell.Tab.0.center" timestamp="1580546124559">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="716" height="276" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1579615421749" />
-    <state width="716" height="276" key="GridCell.Tab.0.left" timestamp="1579615421748">
+    <state width="716" height="276" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1580546124559" />
+    <state width="716" height="276" key="GridCell.Tab.0.left" timestamp="1580546124558">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="716" height="276" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1579615421748" />
-    <state width="716" height="276" key="GridCell.Tab.0.right" timestamp="1579615421749">
+    <state width="716" height="276" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1580546124558" />
+    <state width="716" height="276" key="GridCell.Tab.0.right" timestamp="1580546124560">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="716" height="276" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1579615421749" />
-    <state width="716" height="276" key="GridCell.Tab.1.bottom" timestamp="1579615421749">
+    <state width="716" height="276" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1580546124560" />
+    <state width="716" height="276" key="GridCell.Tab.1.bottom" timestamp="1579702153683">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="716" height="276" key="GridCell.Tab.1.bottom/0.0.1368.872@0.0.1368.872" timestamp="1579615421749" />
-    <state width="716" height="276" key="GridCell.Tab.1.center" timestamp="1579615421749">
+    <state width="716" height="276" key="GridCell.Tab.1.bottom/0.0.1368.872@0.0.1368.872" timestamp="1579702153683" />
+    <state width="716" height="276" key="GridCell.Tab.1.center" timestamp="1579702153683">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="716" height="276" key="GridCell.Tab.1.center/0.0.1368.872@0.0.1368.872" timestamp="1579615421749" />
-    <state width="716" height="276" key="GridCell.Tab.1.left" timestamp="1579615421749">
+    <state width="716" height="276" key="GridCell.Tab.1.center/0.0.1368.872@0.0.1368.872" timestamp="1579702153683" />
+    <state width="716" height="276" key="GridCell.Tab.1.left" timestamp="1579702153683">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="716" height="276" key="GridCell.Tab.1.left/0.0.1368.872@0.0.1368.872" timestamp="1579615421749" />
-    <state width="716" height="276" key="GridCell.Tab.1.right" timestamp="1579615421749">
+    <state width="716" height="276" key="GridCell.Tab.1.left/0.0.1368.872@0.0.1368.872" timestamp="1579702153683" />
+    <state width="716" height="276" key="GridCell.Tab.1.right" timestamp="1579702153683">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="716" height="276" key="GridCell.Tab.1.right/0.0.1368.872@0.0.1368.872" timestamp="1579615421749" />
+    <state width="716" height="276" key="GridCell.Tab.1.right/0.0.1368.872@0.0.1368.872" timestamp="1579702153683" />
     <state x="93" y="152" width="912" height="711" key="SettingsEditor" timestamp="1579180581699">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="93" y="152" width="912" height="711" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1579180581699" />
-    <state x="277" y="170" key="Vcs.Push.Dialog.v2" timestamp="1579526731734">
+    <state x="277" y="170" key="Vcs.Push.Dialog.v2" timestamp="1579663287568">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="277" y="170" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1579526731734" />
-    <state x="722" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1579663262132">
+    <state x="277" y="170" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1579663287568" />
+    <state x="722" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1580545787024">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="722" y="262" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1579663262132" />
+    <state x="722" y="262" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1580545787024" />
     <state x="483" y="125" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1577885125840">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
@@ -426,9 +436,9 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="834" y="357" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1368.872@0.0.1368.872" timestamp="1578064505575" />
-    <state x="352" y="184" width="672" height="678" key="search.everywhere.popup" timestamp="1579528945628">
+    <state x="352" y="184" width="672" height="678" key="search.everywhere.popup" timestamp="1579663412993">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="352" y="184" width="672" height="678" key="search.everywhere.popup/0.0.1368.872@0.0.1368.872" timestamp="1579528945628" />
+    <state x="352" y="184" width="672" height="678" key="search.everywhere.popup/0.0.1368.872@0.0.1368.872" timestamp="1579663412993" />
   </component>
 </project>
