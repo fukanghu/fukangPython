@@ -2,23 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb7ca2c7-9c59-444d-9858-ef80332ebe0b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Jupyter/.ipynb_checkpoints/免费python全栈学习_Tkinter-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jupyter/免费python全栈学习_Tkinter.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PandasVersusExcel/001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PandasVersusExcel/note.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spider/note.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spider/v1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spider/v2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/多线程/10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/多线程/11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/多线程/12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/多线程/13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/多线程/14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/多线程/15.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/fukangPython.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fukangPython.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PandasVersusExcel/002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PandasVersusExcel/002/002.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PandasVersusExcel/002/People - Copy.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PandasVersusExcel/002/People.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spider/cookie.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spider/rsp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spider/v10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spider/v11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spider/v12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spider/v13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spider/v14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spider/v15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spider/v16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spider/v17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spider/v18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spider/v19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spider/v20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spider/v21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spider/v22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spider/v23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spider/v3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spider/v4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spider/v5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spider/v7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spider/v8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spider/v9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/v6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/多线程/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/多线程/note.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spider/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/spider/note.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,78 +69,15 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\fukan\PycharmProjects\fukangPython\高级_包管理" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.v2">
-    <configuration name="001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="fukangPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PandasVersusExcel" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PandasVersusExcel/001.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="14" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="fukangPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/多线程" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/多线程/14.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="15" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="fukangPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/多线程" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/多线程/15.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="v1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.v23">
+    <configuration name="v19" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="fukangPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -139,7 +89,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spider/v1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spider/v19.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,7 +98,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="v2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="v20" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="fukangPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -160,7 +110,70 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spider/v2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spider/v20.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="v21" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="fukangPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/spider" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spider/v21.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="v22" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="fukangPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/spider" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spider/v22.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="v23" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="fukangPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/spider" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spider/v23.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,11 +184,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.v2" />
-        <item itemvalue="Python.001" />
-        <item itemvalue="Python.v1" />
-        <item itemvalue="Python.15" />
-        <item itemvalue="Python.14" />
+        <item itemvalue="Python.v23" />
+        <item itemvalue="Python.v22" />
+        <item itemvalue="Python.v20" />
+        <item itemvalue="Python.v21" />
+        <item itemvalue="Python.v19" />
       </list>
     </recent_temporary>
   </component>
@@ -363,7 +376,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580546198164</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="by fukang">
+      <created>1581329673354</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1581329673354</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -380,10 +400,10 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="439" y="240" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1368.872@0.0.1368.872" timestamp="1579528912574" />
-    <state x="338" y="30" key="CommitChangelistDialog2" timestamp="1580546196695">
+    <state x="338" y="30" key="CommitChangelistDialog2" timestamp="1581329672383">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="338" y="30" key="CommitChangelistDialog2/0.0.1368.872@0.0.1368.872" timestamp="1580546196694" />
+    <state x="338" y="30" key="CommitChangelistDialog2/0.0.1368.872@0.0.1368.872" timestamp="1581329672383" />
     <state x="647" y="184" key="FileChooserDialogImpl" timestamp="1581326792896">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
@@ -400,50 +420,50 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="492" y="141" key="Github.UntrackedFilesDialog/0.0.1368.872@0.0.1368.872" timestamp="1577982999613" />
-    <state width="885" height="276" key="GridCell.Tab.0.bottom" timestamp="1581329289265">
+    <state width="885" height="267" key="GridCell.Tab.0.bottom" timestamp="1582038614210">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="885" height="276" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1581329289265" />
-    <state width="885" height="276" key="GridCell.Tab.0.center" timestamp="1581329289265">
+    <state width="885" height="267" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1582038614210" />
+    <state width="885" height="267" key="GridCell.Tab.0.center" timestamp="1582038614209">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="885" height="276" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1581329289265" />
-    <state width="885" height="276" key="GridCell.Tab.0.left" timestamp="1581329289265">
+    <state width="885" height="267" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1582038614209" />
+    <state width="885" height="267" key="GridCell.Tab.0.left" timestamp="1582038614209">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="885" height="276" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1581329289265" />
-    <state width="885" height="276" key="GridCell.Tab.0.right" timestamp="1581329289265">
+    <state width="885" height="267" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1582038614209" />
+    <state width="885" height="267" key="GridCell.Tab.0.right" timestamp="1582038614209">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="885" height="276" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1581329289265" />
-    <state width="885" height="276" key="GridCell.Tab.1.bottom" timestamp="1581329136633">
+    <state width="885" height="267" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1582038614209" />
+    <state width="885" height="267" key="GridCell.Tab.1.bottom" timestamp="1582038614102">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="885" height="276" key="GridCell.Tab.1.bottom/0.0.1368.872@0.0.1368.872" timestamp="1581329136633" />
-    <state width="885" height="276" key="GridCell.Tab.1.center" timestamp="1581329136633">
+    <state width="885" height="267" key="GridCell.Tab.1.bottom/0.0.1368.872@0.0.1368.872" timestamp="1582038614102" />
+    <state width="885" height="267" key="GridCell.Tab.1.center" timestamp="1582038614102">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="885" height="276" key="GridCell.Tab.1.center/0.0.1368.872@0.0.1368.872" timestamp="1581329136633" />
-    <state width="885" height="276" key="GridCell.Tab.1.left" timestamp="1581329136633">
+    <state width="885" height="267" key="GridCell.Tab.1.center/0.0.1368.872@0.0.1368.872" timestamp="1582038614102" />
+    <state width="885" height="267" key="GridCell.Tab.1.left" timestamp="1582038614102">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="885" height="276" key="GridCell.Tab.1.left/0.0.1368.872@0.0.1368.872" timestamp="1581329136633" />
-    <state width="885" height="276" key="GridCell.Tab.1.right" timestamp="1581329136633">
+    <state width="885" height="267" key="GridCell.Tab.1.left/0.0.1368.872@0.0.1368.872" timestamp="1582038614102" />
+    <state width="885" height="267" key="GridCell.Tab.1.right" timestamp="1582038614102">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="885" height="276" key="GridCell.Tab.1.right/0.0.1368.872@0.0.1368.872" timestamp="1581329136633" />
-    <state x="316" y="83" width="912" height="711" key="SettingsEditor" timestamp="1581329498917">
+    <state width="885" height="267" key="GridCell.Tab.1.right/0.0.1368.872@0.0.1368.872" timestamp="1582038614102" />
+    <state x="209" y="141" width="912" height="711" key="SettingsEditor" timestamp="1582016008103">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="316" y="83" width="912" height="711" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1581329498917" />
-    <state x="277" y="170" key="Vcs.Push.Dialog.v2" timestamp="1580546204667">
+    <state x="209" y="141" width="912" height="711" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1582016008103" />
+    <state x="277" y="170" key="Vcs.Push.Dialog.v2" timestamp="1581329676719">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="277" y="170" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1580546204667" />
-    <state x="722" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1581325938964">
+    <state x="277" y="170" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1581329676719" />
+    <state x="722" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1582035604695">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="722" y="262" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1581325938964" />
+    <state x="722" y="262" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1582035604695" />
     <state x="483" y="125" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1577885125840">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
@@ -452,9 +472,21 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="834" y="357" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1368.872@0.0.1368.872" timestamp="1578064505575" />
-    <state x="352" y="184" width="672" height="678" key="search.everywhere.popup" timestamp="1581329389015">
+    <state x="355" y="184" width="672" height="678" key="search.everywhere.popup" timestamp="1581998770949">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="352" y="184" width="672" height="678" key="search.everywhere.popup/0.0.1368.872@0.0.1368.872" timestamp="1581329389015" />
+    <state x="355" y="184" width="672" height="678" key="search.everywhere.popup/0.0.1368.872@0.0.1368.872" timestamp="1581998770949" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PandasVersusExcel/002.py</url>
+          <line>14</line>
+          <option name="temporary" value="true" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
