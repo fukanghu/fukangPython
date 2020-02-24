@@ -21,12 +21,6 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="PUSH_TAGS">
-      <GitPushTagMode>
-        <option name="argument" value="--tags" />
-        <option name="title" value="All" />
-      </GitPushTagMode>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IgnoredFileRootStore">
@@ -50,8 +44,8 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/PythonLearning" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -449,10 +443,10 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="573" y="284" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1368.872@0.0.1368.872" timestamp="1582434984516" />
-    <state x="161" y="30" key="CommitChangelistDialog2" timestamp="1582564981879">
+    <state x="161" y="30" key="CommitChangelistDialog2" timestamp="1582565028009">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="161" y="30" key="CommitChangelistDialog2/0.0.1368.872@0.0.1368.872" timestamp="1582564981879" />
+    <state x="161" y="30" key="CommitChangelistDialog2/0.0.1368.872@0.0.1368.872" timestamp="1582565028009" />
     <state x="647" y="184" key="FileChooserDialogImpl" timestamp="1581326792896">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
@@ -501,14 +495,14 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state width="675" height="267" key="GridCell.Tab.1.right/0.0.1368.872@0.0.1368.872" timestamp="1582393546281" />
-    <state x="368" y="161" width="912" height="711" key="SettingsEditor" timestamp="1582452234341">
+    <state x="368" y="161" width="912" height="711" key="SettingsEditor" timestamp="1582565161299">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="368" y="161" width="912" height="711" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1582452234341" />
-    <state x="277" y="170" key="Vcs.Push.Dialog.v2" timestamp="1582564946228">
+    <state x="368" y="161" width="912" height="711" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1582565161299" />
+    <state x="277" y="170" key="Vcs.Push.Dialog.v2" timestamp="1582565041946">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="277" y="170" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1582564946228" />
+    <state x="277" y="170" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1582565041946" />
     <state x="722" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1582559750557">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
