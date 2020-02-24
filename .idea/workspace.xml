@@ -51,7 +51,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/PythonLearning" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -449,7 +449,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582565466963</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="by fukang">
+      <created>1582565507730</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1582565507730</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -473,10 +480,10 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="573" y="284" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1368.872@0.0.1368.872" timestamp="1582434984516" />
-    <state x="161" y="30" key="CommitChangelistDialog2" timestamp="1582565466219">
+    <state x="161" y="30" key="CommitChangelistDialog2" timestamp="1582565506695">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="161" y="30" key="CommitChangelistDialog2/0.0.1368.872@0.0.1368.872" timestamp="1582565466219" />
+    <state x="161" y="30" key="CommitChangelistDialog2/0.0.1368.872@0.0.1368.872" timestamp="1582565506695" />
     <state x="647" y="184" key="FileChooserDialogImpl" timestamp="1581326792896">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
@@ -525,14 +532,14 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state width="675" height="267" key="GridCell.Tab.1.right/0.0.1368.872@0.0.1368.872" timestamp="1582393546281" />
-    <state x="368" y="161" width="912" height="711" key="SettingsEditor" timestamp="1582565161299">
+    <state x="368" y="161" width="912" height="711" key="SettingsEditor" timestamp="1582566116162">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="368" y="161" width="912" height="711" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1582565161299" />
-    <state x="277" y="170" key="Vcs.Push.Dialog.v2" timestamp="1582565473416">
+    <state x="368" y="161" width="912" height="711" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1582566116162" />
+    <state x="277" y="170" key="Vcs.Push.Dialog.v2" timestamp="1582565512067">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="277" y="170" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1582565473416" />
+    <state x="277" y="170" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1582565512067" />
     <state x="722" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1582565495830">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
@@ -549,10 +556,14 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="695" y="126" width="509" height="659" key="dock-window-1/0.0.1368.872@0.0.1368.872" timestamp="1582386293983" />
-    <state x="572" y="309" key="git4idea.ui.GitTagDialog" timestamp="1582565016925">
+    <state x="562" y="259" key="git4idea.merge.GitMergeDialog" timestamp="1582565844722">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="572" y="309" key="git4idea.ui.GitTagDialog/0.0.1368.872@0.0.1368.872" timestamp="1582565016925" />
+    <state x="562" y="259" key="git4idea.merge.GitMergeDialog/0.0.1368.872@0.0.1368.872" timestamp="1582565844722" />
+    <state x="572" y="309" key="git4idea.ui.GitTagDialog" timestamp="1582565818729">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="572" y="309" key="git4idea.ui.GitTagDialog/0.0.1368.872@0.0.1368.872" timestamp="1582565818729" />
     <state x="359" y="184" width="672" height="678" key="search.everywhere.popup" timestamp="1582450027554">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
