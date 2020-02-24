@@ -2,126 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb7ca2c7-9c59-444d-9858-ef80332ebe0b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python学习/spider/note2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python学习/spider/note3.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python学习/spider/v24.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python学习/spider/v25.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python学习/spider/v26.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python学习/spider/v27.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python学习/spider/v28.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python学习/spider/v29.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python学习/spider/v30.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python学习/spider/v31.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python学习/spider/v32.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python学习/spider/v33.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python学习/spider/v34.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python学习/spider/v35.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python学习/spider/v36.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python学习/高级_包管理/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/股票数据分析/baostock/k_data_index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/股票数据分析/baostock/k_data_query_history.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/股票数据分析/baostock/k_data_valuation index_daily frequency.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/股票数据分析/baostock/note.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python学习/spider/note4.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python学习/spider/v37.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python学习/spider/v38.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/100excercise" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/100excercise.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jupyter/.ipynb_checkpoints/免费python全栈学习_Tkinter-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/Jupyter/.ipynb_checkpoints/免费python全栈学习_Tkinter-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jupyter/.ipynb_checkpoints/免费python全栈学习_协程-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/Jupyter/.ipynb_checkpoints/免费python全栈学习_协程-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jupyter/.ipynb_checkpoints/免费python全栈学习_文件_持久化-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/Jupyter/.ipynb_checkpoints/免费python全栈学习_文件_持久化-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jupyter/myfig.png" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/Jupyter/myfig.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jupyter/shv.db.bak" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/Jupyter/shv.db.bak" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jupyter/shv.db.dat" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/Jupyter/shv.db.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jupyter/shv.db.dir" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/Jupyter/shv.db.dir" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jupyter/test01.txt" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/Jupyter/test01.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jupyter/免费python全栈学习.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/Jupyter/免费python全栈学习.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jupyter/免费python全栈学习_Tkinter.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/Jupyter/免费python全栈学习_Tkinter.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jupyter/免费python全栈学习_opp.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/Jupyter/免费python全栈学习_opp.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jupyter/免费python全栈学习_函数式编程.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/Jupyter/免费python全栈学习_函数式编程.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jupyter/免费python全栈学习_协程.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/Jupyter/免费python全栈学习_协程.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jupyter/免费python全栈学习_常用模块.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/Jupyter/免费python全栈学习_常用模块.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jupyter/免费python全栈学习_异常.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/Jupyter/免费python全栈学习_异常.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jupyter/免费python全栈学习_文件_持久化.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/Jupyter/免费python全栈学习_文件_持久化.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jupyter/免费python全栈学习_类.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/Jupyter/免费python全栈学习_类.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jupyter/免费python全栈学习_语法基础1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/Jupyter/免费python全栈学习_语法基础1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jupyter/免费python全栈学习_语法基础2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/Jupyter/免费python全栈学习_语法基础2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jupyter/免费python全栈学习_语法基础3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/Jupyter/免费python全栈学习_语法基础3.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/01.py" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/log/01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/02.py" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/log/02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/all.log" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/log/all.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/error.log" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/log/error.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/log/note.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/tulingxueyuan.log" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/log/tulingxueyuan.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opp/01.py" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/opp/01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opp/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/opp/note.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/cookie.txt" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/spider/cookie.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/spider/note.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/rsp.html" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/spider/rsp.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/v1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/spider/v1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/v10.py" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/spider/v10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/v11.py" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/spider/v11.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/v12.py" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/spider/v12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/v13.py" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/spider/v13.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/v14.py" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/spider/v14.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/v15.py" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/spider/v15.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/v16.py" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/spider/v16.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/v17.py" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/spider/v17.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/v18.py" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/spider/v18.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/v19.py" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/spider/v19.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/v2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/spider/v2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/v20.py" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/spider/v20.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/v21.py" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/spider/v21.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/v22.py" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/spider/v22.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/v23.py" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/spider/v23.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/v3.py" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/spider/v3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/v4.py" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/spider/v4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/v5.py" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/spider/v5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/v6.py" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/spider/v6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/v7.py" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/spider/v7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/v8.py" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/spider/v8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/v9.py" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/spider/v9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/多线程/01.py" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/多线程/01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/多线程/02.py" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/多线程/02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/多线程/03.py" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/多线程/03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/多线程/04.py" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/多线程/04.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/多线程/05.py" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/多线程/05.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/多线程/06.py" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/多线程/06.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/多线程/07.py" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/多线程/07.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/多线程/08.py" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/多线程/08.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/多线程/09.py" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/多线程/09.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/多线程/10.py" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/多线程/10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/多线程/11.py" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/多线程/11.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/多线程/12.py" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/多线程/12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/多线程/13.py" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/多线程/13.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/多线程/14.py" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/多线程/14.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/多线程/15.py" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/多线程/15.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/多线程/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/多线程/note.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/调试/01.py" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/调试/01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/调试/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/调试/note.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/高级_包管理/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/高级_包管理/note.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/高级_包管理/p01.py" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/高级_包管理/p01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/高级_包管理/p02.py" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/高级_包管理/p02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/高级_包管理/p03.py" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/高级_包管理/p03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/高级_包管理/p04.py" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/高级_包管理/p04.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/高级_包管理/p05.py" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/高级_包管理/p05.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/高级_包管理/p06.py" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/高级_包管理/p06.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/高级_包管理/p07.py" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/高级_包管理/p07.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/高级_包管理/p08.py" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/高级_包管理/p08.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/高级_包管理/p09.py" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/高级_包管理/p09.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/高级_包管理/p10.py" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/高级_包管理/p10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/高级_包管理/pkg01/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/高级_包管理/pkg01/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/高级_包管理/pkg01/p01.py" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/高级_包管理/pkg01/p01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/高级_包管理/pkg02/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/高级_包管理/pkg02/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/高级_包管理/pkg02/p01.py" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/高级_包管理/pkg02/p01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python学习/spider/note3.md" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/spider/note3.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/股票数据分析/baostock/k_data_query_history.py" beforeDir="false" afterPath="$PROJECT_DIR$/股票数据分析/baostock/k_data_query_history.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="fukangPython" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -159,8 +59,8 @@
       <recent name="C:\Users\fukan\PycharmProjects\fukangPython\高级_包管理" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.v36">
-    <configuration name="v32" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.k_data_query_history">
+    <configuration name="k_data_query_history" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="fukangPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -168,74 +68,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python学习/spider" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/股票数据分析/baostock" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python学习/spider/v32.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="v33" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="fukangPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python学习/spider" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python学习/spider/v33.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="v34" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="fukangPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python学习/spider" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python学习/spider/v34.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="v35" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="fukangPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python学习/spider" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python学习/spider/v35.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/股票数据分析/baostock/k_data_query_history.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -265,13 +102,76 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="v37" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="fukangPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python学习/spider" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python学习/spider/v37.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="v38 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="fukangPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python学习/spider" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python学习/spider/v38.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="v38" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="fukangPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python学习/spider" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\fukan\PycharmProjects\fukangPython\python学习\spider\v38.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.k_data_query_history" />
+        <item itemvalue="Python.v38 (1)" />
+        <item itemvalue="Python.v37" />
+        <item itemvalue="Python.v38" />
         <item itemvalue="Python.v36" />
-        <item itemvalue="Python.v35" />
-        <item itemvalue="Python.v34" />
-        <item itemvalue="Python.v33" />
-        <item itemvalue="Python.v32" />
       </list>
     </recent_temporary>
   </component>
@@ -480,7 +380,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582038781061</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="by fukang">
+      <created>1582393504467</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1582393504467</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -496,18 +403,18 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="311" y="127" key="#Notifications/0.0.1368.872@0.0.1368.872" timestamp="1582289432483" />
-    <state x="556" y="99" key="#Vim_Emulation" timestamp="1578150309983">
+    <state x="556" y="99" key="#Vim_Emulation" timestamp="1582434995835">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="556" y="99" key="#Vim_Emulation/0.0.1368.872@0.0.1368.872" timestamp="1578150309983" />
-    <state x="439" y="240" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582347426277">
+    <state x="556" y="99" key="#Vim_Emulation/0.0.1368.872@0.0.1368.872" timestamp="1582434995835" />
+    <state x="573" y="284" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582434984516">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="439" y="240" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1368.872@0.0.1368.872" timestamp="1582347426277" />
-    <state x="338" y="30" key="CommitChangelistDialog2" timestamp="1582038780246">
+    <state x="573" y="284" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1368.872@0.0.1368.872" timestamp="1582434984516" />
+    <state x="161" y="30" key="CommitChangelistDialog2" timestamp="1582393503119">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="338" y="30" key="CommitChangelistDialog2/0.0.1368.872@0.0.1368.872" timestamp="1582038780246" />
+    <state x="161" y="30" key="CommitChangelistDialog2/0.0.1368.872@0.0.1368.872" timestamp="1582393503119" />
     <state x="647" y="184" key="FileChooserDialogImpl" timestamp="1581326792896">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
@@ -524,50 +431,50 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="492" y="141" key="Github.UntrackedFilesDialog/0.0.1368.872@0.0.1368.872" timestamp="1577982999613" />
-    <state width="675" height="219" key="GridCell.Tab.0.bottom" timestamp="1582393290352">
+    <state width="1348" height="219" key="GridCell.Tab.0.bottom" timestamp="1582454556324">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="675" height="219" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1582393290352" />
-    <state width="675" height="219" key="GridCell.Tab.0.center" timestamp="1582393290352">
+    <state width="1348" height="219" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1582454556324" />
+    <state width="1348" height="219" key="GridCell.Tab.0.center" timestamp="1582454556324">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="675" height="219" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1582393290352" />
-    <state width="675" height="219" key="GridCell.Tab.0.left" timestamp="1582393290352">
+    <state width="1348" height="219" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1582454556324" />
+    <state width="1348" height="219" key="GridCell.Tab.0.left" timestamp="1582454556324">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="675" height="219" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1582393290352" />
-    <state width="675" height="219" key="GridCell.Tab.0.right" timestamp="1582393290352">
+    <state width="1348" height="219" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1582454556324" />
+    <state width="1348" height="219" key="GridCell.Tab.0.right" timestamp="1582454556324">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="675" height="219" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1582393290352" />
-    <state width="675" height="267" key="GridCell.Tab.1.bottom" timestamp="1582383598450">
+    <state width="1348" height="219" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1582454556324" />
+    <state width="675" height="267" key="GridCell.Tab.1.bottom" timestamp="1582393546281">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="675" height="267" key="GridCell.Tab.1.bottom/0.0.1368.872@0.0.1368.872" timestamp="1582383598450" />
-    <state width="675" height="267" key="GridCell.Tab.1.center" timestamp="1582383598449">
+    <state width="675" height="267" key="GridCell.Tab.1.bottom/0.0.1368.872@0.0.1368.872" timestamp="1582393546281" />
+    <state width="675" height="267" key="GridCell.Tab.1.center" timestamp="1582393546281">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="675" height="267" key="GridCell.Tab.1.center/0.0.1368.872@0.0.1368.872" timestamp="1582383598449" />
-    <state width="675" height="267" key="GridCell.Tab.1.left" timestamp="1582383598449">
+    <state width="675" height="267" key="GridCell.Tab.1.center/0.0.1368.872@0.0.1368.872" timestamp="1582393546281" />
+    <state width="675" height="267" key="GridCell.Tab.1.left" timestamp="1582393546281">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="675" height="267" key="GridCell.Tab.1.left/0.0.1368.872@0.0.1368.872" timestamp="1582383598449" />
-    <state width="675" height="267" key="GridCell.Tab.1.right" timestamp="1582383598449">
+    <state width="675" height="267" key="GridCell.Tab.1.left/0.0.1368.872@0.0.1368.872" timestamp="1582393546281" />
+    <state width="675" height="267" key="GridCell.Tab.1.right" timestamp="1582393546281">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="675" height="267" key="GridCell.Tab.1.right/0.0.1368.872@0.0.1368.872" timestamp="1582383598449" />
-    <state x="302" y="107" width="912" height="711" key="SettingsEditor" timestamp="1582391894933">
+    <state width="675" height="267" key="GridCell.Tab.1.right/0.0.1368.872@0.0.1368.872" timestamp="1582393546281" />
+    <state x="368" y="161" width="912" height="711" key="SettingsEditor" timestamp="1582452234341">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="302" y="107" width="912" height="711" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1582391894933" />
-    <state x="277" y="170" key="Vcs.Push.Dialog.v2" timestamp="1582038783621">
+    <state x="368" y="161" width="912" height="711" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1582452234341" />
+    <state x="277" y="170" key="Vcs.Push.Dialog.v2" timestamp="1582393510995">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="277" y="170" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1582038783621" />
-    <state x="722" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1582379293867">
+    <state x="277" y="170" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1582393510995" />
+    <state x="722" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1582549054178">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="722" y="262" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1582379293867" />
+    <state x="722" y="262" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1582549054178" />
     <state x="483" y="125" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1577885125840">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
@@ -580,20 +487,14 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="695" y="126" width="509" height="659" key="dock-window-1/0.0.1368.872@0.0.1368.872" timestamp="1582386293983" />
-    <state x="357" y="184" width="672" height="678" key="search.everywhere.popup" timestamp="1582389625144">
+    <state x="359" y="184" width="672" height="678" key="search.everywhere.popup" timestamp="1582450027554">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="357" y="184" width="672" height="678" key="search.everywhere.popup/0.0.1368.872@0.0.1368.872" timestamp="1582389625144" />
+    <state x="359" y="184" width="672" height="678" key="search.everywhere.popup/0.0.1368.872@0.0.1368.872" timestamp="1582450027554" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/PandasVersusExcel/002.py</url>
-          <line>14</line>
-          <option name="temporary" value="true" />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/python学习/spider/v24.py</url>
           <line>10</line>
