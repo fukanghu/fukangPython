@@ -2,133 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb7ca2c7-9c59-444d-9858-ef80332ebe0b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MachineLearning/Jupyter/.ipynb_checkpoints/Andrew Ng_MachingLearning-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MachineLearning/Jupyter/Andrew Ng_MachingLearning.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockData/BaoStockData/note.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MachineLearning/cost_function1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MachineLearning/cost_function2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MachineLearning/gradient_descent1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MachineLearning/gradient_descent2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MachineLearning/linear_regression.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MachineLearning/note.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PandasVersusExcel/001.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/PandasVersusExcel/001.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PandasVersusExcel/002.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/PandasVersusExcel/002.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PandasVersusExcel/002/002.zip" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/PandasVersusExcel/002/002.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PandasVersusExcel/002/People - Copy.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/PandasVersusExcel/002/People - Copy.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PandasVersusExcel/002/People.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/PandasVersusExcel/002/People.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PandasVersusExcel/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/PandasVersusExcel/note.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/100excercise.md" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/100excercise.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/Jupyter/.ipynb_checkpoints/免费python全栈学习_Tkinter-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/Jupyter/.ipynb_checkpoints/免费python全栈学习_Tkinter-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/Jupyter/.ipynb_checkpoints/免费python全栈学习_协程-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/Jupyter/.ipynb_checkpoints/免费python全栈学习_协程-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/Jupyter/.ipynb_checkpoints/免费python全栈学习_文件_持久化-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/Jupyter/.ipynb_checkpoints/免费python全栈学习_文件_持久化-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/Jupyter/myfig.png" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/Jupyter/myfig.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/Jupyter/shv.db.bak" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/Jupyter/shv.db.bak" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/Jupyter/shv.db.dat" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/Jupyter/shv.db.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/Jupyter/shv.db.dir" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/Jupyter/shv.db.dir" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/Jupyter/test01.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/Jupyter/test01.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/Jupyter/免费python全栈学习.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/Jupyter/免费python全栈学习.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/Jupyter/免费python全栈学习_Tkinter.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/Jupyter/免费python全栈学习_Tkinter.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/Jupyter/免费python全栈学习_opp.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/Jupyter/免费python全栈学习_opp.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/Jupyter/免费python全栈学习_函数式编程.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/Jupyter/免费python全栈学习_函数式编程.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/Jupyter/免费python全栈学习_协程.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/Jupyter/免费python全栈学习_协程.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/Jupyter/免费python全栈学习_常用模块.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/Jupyter/免费python全栈学习_常用模块.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/Jupyter/免费python全栈学习_异常.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/Jupyter/免费python全栈学习_异常.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/Jupyter/免费python全栈学习_文件_持久化.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/Jupyter/免费python全栈学习_文件_持久化.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/Jupyter/免费python全栈学习_类.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/Jupyter/免费python全栈学习_类.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/Jupyter/免费python全栈学习_语法基础1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/Jupyter/免费python全栈学习_语法基础1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/Jupyter/免费python全栈学习_语法基础2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/Jupyter/免费python全栈学习_语法基础2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/Jupyter/免费python全栈学习_语法基础3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/Jupyter/免费python全栈学习_语法基础3.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/log/01.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/log/01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/log/02.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/log/02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/log/all.log" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/log/all.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/log/error.log" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/log/error.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/log/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/log/note.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/log/tulingxueyuan.log" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/log/tulingxueyuan.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/opp/01.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/opp/01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/opp/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/opp/note.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/spider/cookie.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/spider/cookie.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/spider/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/spider/note.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/spider/note2.md" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/spider/note2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/spider/note3.md" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/spider/note3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/spider/note4.md" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/spider/note4.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/spider/rsp.html" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/spider/rsp.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/spider/v1.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/spider/v1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/spider/v10.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/spider/v10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/spider/v11.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/spider/v11.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/spider/v12.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/spider/v12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/spider/v13.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/spider/v13.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/spider/v14.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/spider/v14.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/spider/v15.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/spider/v15.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/spider/v16.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/spider/v16.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/spider/v17.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/spider/v17.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/spider/v18.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/spider/v18.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/spider/v19.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/spider/v19.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/spider/v2.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/spider/v2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/spider/v20.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/spider/v20.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/spider/v21.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/spider/v21.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/spider/v22.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/spider/v22.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/spider/v23.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/spider/v23.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/spider/v24.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/spider/v24.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/spider/v25.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/spider/v25.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/spider/v26.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/spider/v26.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/spider/v27.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/spider/v27.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/spider/v28.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/spider/v28.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/spider/v29.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/spider/v29.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/spider/v3.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/spider/v3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/spider/v30.html" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/spider/v30.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/spider/v31.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/spider/v31.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/spider/v32.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/spider/v32.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/spider/v33.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/spider/v33.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/spider/v34.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/spider/v34.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/spider/v35.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/spider/v35.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/spider/v36.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/spider/v36.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/spider/v37.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/spider/v37.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/spider/v38.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/spider/v38.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/spider/v4.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/spider/v4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/spider/v5.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/spider/v5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/spider/v6.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/spider/v6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/spider/v7.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/spider/v7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/spider/v8.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/spider/v8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/spider/v9.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/spider/v9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/多线程/01.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/多线程/01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/多线程/02.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/多线程/02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/多线程/03.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/多线程/03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/多线程/04.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/多线程/04.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/多线程/05.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/多线程/05.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/多线程/06.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/多线程/06.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/多线程/07.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/多线程/07.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/多线程/08.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/多线程/08.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/多线程/09.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/多线程/09.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/多线程/10.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/多线程/10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/多线程/11.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/多线程/11.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/多线程/12.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/多线程/12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/多线程/13.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/多线程/13.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/多线程/14.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/多线程/14.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/多线程/15.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/多线程/15.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/多线程/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/多线程/note.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/调试/01.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/调试/01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/调试/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/调试/note.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/高级_包管理/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/高级_包管理/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/高级_包管理/note.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/高级_包管理/p01.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/高级_包管理/p01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/高级_包管理/p02.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/高级_包管理/p02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/高级_包管理/p03.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/高级_包管理/p03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/高级_包管理/p04.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/高级_包管理/p04.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/高级_包管理/p05.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/高级_包管理/p05.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/高级_包管理/p06.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/高级_包管理/p06.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/高级_包管理/p07.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/高级_包管理/p07.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/高级_包管理/p08.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/高级_包管理/p08.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/高级_包管理/p09.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/高级_包管理/p09.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/高级_包管理/p10.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/高级_包管理/p10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/高级_包管理/pkg01/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/高级_包管理/pkg01/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/高级_包管理/pkg01/p01.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/高级_包管理/pkg01/p01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/高级_包管理/pkg02/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/高级_包管理/pkg02/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/高级_包管理/pkg02/p01.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/高级_包管理/pkg02/p01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/股票数据分析/baostock/k_data_index.py" beforeDir="false" afterPath="$PROJECT_DIR$/StockData/BaoStockData/k_data_index.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/股票数据分析/baostock/k_data_query_history.py" beforeDir="false" afterPath="$PROJECT_DIR$/StockData/BaoStockData/k_data_query_history.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/股票数据分析/baostock/k_data_valuation index_daily frequency.py" beforeDir="false" afterPath="$PROJECT_DIR$/StockData/BaoStockData/k_data_valuation index_daily frequency.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/股票数据分析/baostock/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearning/WangDana/高级_包管理/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,6 +21,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IgnoredFileRootStore">
@@ -524,7 +404,28 @@
       <option name="project" value="LOCAL" />
       <updated>1582557444343</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="by fukang">
+      <created>1582564782627</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1582564782627</updated>
+    </task>
+    <task id="LOCAL-00031" summary="by fukang">
+      <created>1582564838140</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1582564838140</updated>
+    </task>
+    <task id="LOCAL-00032" summary="by fukang">
+      <created>1582564935793</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1582564935793</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -548,10 +449,10 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="573" y="284" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1368.872@0.0.1368.872" timestamp="1582434984516" />
-    <state x="161" y="30" key="CommitChangelistDialog2" timestamp="1582564837342">
+    <state x="161" y="30" key="CommitChangelistDialog2" timestamp="1582564981879">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="161" y="30" key="CommitChangelistDialog2/0.0.1368.872@0.0.1368.872" timestamp="1582564837342" />
+    <state x="161" y="30" key="CommitChangelistDialog2/0.0.1368.872@0.0.1368.872" timestamp="1582564981879" />
     <state x="647" y="184" key="FileChooserDialogImpl" timestamp="1581326792896">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
@@ -604,10 +505,10 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="368" y="161" width="912" height="711" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1582452234341" />
-    <state x="277" y="170" key="Vcs.Push.Dialog.v2" timestamp="1582564844111">
+    <state x="277" y="170" key="Vcs.Push.Dialog.v2" timestamp="1582564946228">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="277" y="170" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1582564844111" />
+    <state x="277" y="170" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1582564946228" />
     <state x="722" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1582559750557">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
@@ -624,6 +525,10 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="695" y="126" width="509" height="659" key="dock-window-1/0.0.1368.872@0.0.1368.872" timestamp="1582386293983" />
+    <state x="572" y="309" key="git4idea.ui.GitTagDialog" timestamp="1582565016925">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="572" y="309" key="git4idea.ui.GitTagDialog/0.0.1368.872@0.0.1368.872" timestamp="1582565016925" />
     <state x="359" y="184" width="672" height="678" key="search.everywhere.popup" timestamp="1582450027554">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
