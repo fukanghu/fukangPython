@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb7ca2c7-9c59-444d-9858-ef80332ebe0b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonLearning/__init__.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +48,9 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\fukan\PycharmProjects\fukangPython\PythonLearning" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\fukan\PycharmProjects\fukangPython\PythonLearning" />
       <recent name="C:\Users\fukan\PycharmProjects\fukangPython\PythonLearning\WangDana" />
@@ -419,7 +422,21 @@
       <option name="project" value="LOCAL" />
       <updated>1582564935793</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="by fukang">
+      <created>1582565028700</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1582565028700</updated>
+    </task>
+    <task id="LOCAL-00034" summary="by fukang">
+      <created>1582565235707</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1582565235707</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -443,10 +460,10 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="573" y="284" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1368.872@0.0.1368.872" timestamp="1582434984516" />
-    <state x="161" y="30" key="CommitChangelistDialog2" timestamp="1582565028009">
+    <state x="161" y="30" key="CommitChangelistDialog2" timestamp="1582565235024">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="161" y="30" key="CommitChangelistDialog2/0.0.1368.872@0.0.1368.872" timestamp="1582565028009" />
+    <state x="161" y="30" key="CommitChangelistDialog2/0.0.1368.872@0.0.1368.872" timestamp="1582565235024" />
     <state x="647" y="184" key="FileChooserDialogImpl" timestamp="1581326792896">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
@@ -499,10 +516,10 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="368" y="161" width="912" height="711" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1582565161299" />
-    <state x="277" y="170" key="Vcs.Push.Dialog.v2" timestamp="1582565041946">
+    <state x="277" y="170" key="Vcs.Push.Dialog.v2" timestamp="1582565297698">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="277" y="170" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1582565041946" />
+    <state x="277" y="170" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1582565297698" />
     <state x="722" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1582559750557">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
