@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb7ca2c7-9c59-444d-9858-ef80332ebe0b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python学习/spider/note4.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python学习/spider/v37.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python学习/spider/v38.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python学习/spider/note3.md" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/spider/note3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/股票数据分析/baostock/k_data_query_history.py" beforeDir="false" afterPath="$PROJECT_DIR$/股票数据分析/baostock/k_data_query_history.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -387,7 +382,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582393504467</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="by fukang">
+      <created>1582555800736</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1582555800736</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -411,10 +413,10 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="573" y="284" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1368.872@0.0.1368.872" timestamp="1582434984516" />
-    <state x="161" y="30" key="CommitChangelistDialog2" timestamp="1582393503119">
+    <state x="161" y="30" key="CommitChangelistDialog2" timestamp="1582555799816">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="161" y="30" key="CommitChangelistDialog2/0.0.1368.872@0.0.1368.872" timestamp="1582393503119" />
+    <state x="161" y="30" key="CommitChangelistDialog2/0.0.1368.872@0.0.1368.872" timestamp="1582555799816" />
     <state x="647" y="184" key="FileChooserDialogImpl" timestamp="1581326792896">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
@@ -467,10 +469,10 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="368" y="161" width="912" height="711" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1582452234341" />
-    <state x="277" y="170" key="Vcs.Push.Dialog.v2" timestamp="1582393510995">
+    <state x="277" y="170" key="Vcs.Push.Dialog.v2" timestamp="1582555805285">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="277" y="170" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1582393510995" />
+    <state x="277" y="170" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1582555805285" />
     <state x="722" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1582549054178">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
