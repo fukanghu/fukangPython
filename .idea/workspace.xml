@@ -2,14 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb7ca2c7-9c59-444d-9858-ef80332ebe0b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MachineLearning/Jupyter/.ipynb_checkpoints/MySQL_Learning-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MachineLearning/Jupyter/MySQL_Learning.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySQL/note.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySQL/v1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonLearning/WangDana/Django/note.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonLearning/WangDana/spider/note5.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/fukangPython.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fukangPython.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -478,7 +470,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582566334532</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="by fukang">
+      <created>1582951982148</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1582951982148</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -502,10 +501,10 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="573" y="284" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1368.872@0.0.1368.872" timestamp="1582434984516" />
-    <state x="566" y="58" key="CommitChangelistDialog2" timestamp="1582566333819">
+    <state x="566" y="58" key="CommitChangelistDialog2" timestamp="1582951981222">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="566" y="58" key="CommitChangelistDialog2/0.0.1368.872@0.0.1368.872" timestamp="1582566333819" />
+    <state x="566" y="58" key="CommitChangelistDialog2/0.0.1368.872@0.0.1368.872" timestamp="1582951981222" />
     <state x="262" y="103" key="DiffContextDialog" timestamp="1582566317806">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
@@ -562,14 +561,18 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="368" y="161" width="912" height="711" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1582950489946" />
-    <state x="277" y="170" key="Vcs.Push.Dialog.v2" timestamp="1582566350331">
+    <state x="277" y="170" key="Vcs.Push.Dialog.v2" timestamp="1582951984370">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="277" y="170" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1582566350331" />
-    <state x="722" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1582951825345">
+    <state x="277" y="170" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1582951984370" />
+    <state x="640" y="115" width="574" height="659" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1582952188569">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="722" y="262" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1582951825345" />
+    <state x="640" y="115" width="574" height="659" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1368.872@0.0.1368.872" timestamp="1582952188569" />
+    <state x="722" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1582952129675">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="722" y="262" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1582952129675" />
     <state x="483" y="125" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1577885125840">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
