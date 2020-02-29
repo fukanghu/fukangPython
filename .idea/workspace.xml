@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb7ca2c7-9c59-444d-9858-ef80332ebe0b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/MySQL/v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL/v3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL/v4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL/v5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL/v6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/fukangPython.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fukangPython.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySQL/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/MySQL/note.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySQL/v1.py" beforeDir="false" afterPath="$PROJECT_DIR$/MySQL/v1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,35 +59,35 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/PythonLearning" />
-    <property name="settings.editor.selected.configurable" value="com.maddyhome.idea.vim.ui.VimEmulationConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/MySQL/1.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\fukan\PycharmProjects\fukangPython\StockData" />
       <recent name="C:\Users\fukan\PycharmProjects\fukangPython\PythonLearning\WangDana" />
       <recent name="C:\Users\fukan\PycharmProjects\fukangPython\PythonLearning" />
       <recent name="C:\Users\fukan\PycharmProjects\fukangPython\python学习" />
       <recent name="C:\Users\fukan\PycharmProjects\fukangPython\spider" />
-      <recent name="C:\Users\fukan\PycharmProjects\fukangPython\高级_包管理" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\fukan\PycharmProjects\fukangPython\PythonLearning" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.k_data_query_history">
-    <configuration name="k_data_query_history" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.v6">
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="fukangPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/股票数据分析/baostock" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_HOME" value="C:\Users\fukan\Anaconda3\envs\test\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MySQL" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/股票数据分析/baostock/k_data_query_history.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MySQL/1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,19 +96,16 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="v36" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="fukangPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python学习/spider" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_HOME" value="C:\Users\fukan\Anaconda3\envs\test\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python学习/spider/v36.py" />
+      <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,19 +114,40 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="v37" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="v2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="fukangPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python学习/spider" />
+      <option name="SDK_HOME" value="C:\Users\fukan\Anaconda3\envs\test\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MySQL" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python学习/spider/v37.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MySQL/v2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="v3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="fukangPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\fukan\Anaconda3\envs\test\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MySQL" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MySQL/v3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,11 +185,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python学习/spider" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonLearning/WangDana/spider" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\fukan\PycharmProjects\fukangPython\python学习\spider\v38.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonLearning/WangDana/spider/v38.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,13 +198,84 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="v4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="fukangPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\fukan\Anaconda3\envs\test\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MySQL" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MySQL/v4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="v5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="fukangPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\fukan\Anaconda3\envs\test\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MySQL" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MySQL/v5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="v6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="fukangPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\fukan\Anaconda3\envs\test\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MySQL" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MySQL/v6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.1" />
+      <item itemvalue="Python.v2" />
+      <item itemvalue="Python.v3" />
+      <item itemvalue="Python.v4" />
+      <item itemvalue="Python.v5" />
+      <item itemvalue="Python.v6" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.k_data_query_history" />
-        <item itemvalue="Python.v38 (1)" />
-        <item itemvalue="Python.v37" />
-        <item itemvalue="Python.v38" />
-        <item itemvalue="Python.v36" />
+        <item itemvalue="Python.v6" />
+        <item itemvalue="Python.v5" />
+        <item itemvalue="Python.v4" />
+        <item itemvalue="Python.v3" />
+        <item itemvalue="Python.v2" />
       </list>
     </recent_temporary>
   </component>
@@ -484,7 +582,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582952301788</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="by fukang">
+      <created>1582952505257</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1582952505257</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -504,22 +609,26 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="556" y="99" key="#Vim_Emulation/0.0.1368.872@0.0.1368.872" timestamp="1582951501947" />
-    <state x="573" y="284" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582434984516">
+    <state x="282" y="89" width="1086" height="704" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582956761552">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="573" y="284" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1368.872@0.0.1368.872" timestamp="1582434984516" />
-    <state x="566" y="58" key="CommitChangelistDialog2" timestamp="1582952300979">
+    <state x="282" y="89" width="1086" height="704" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1368.872@0.0.1368.872" timestamp="1582956761552" />
+    <state x="573" y="284" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582966755372">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="566" y="58" key="CommitChangelistDialog2/0.0.1368.872@0.0.1368.872" timestamp="1582952300979" />
+    <state x="573" y="284" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1368.872@0.0.1368.872" timestamp="1582966755372" />
+    <state x="566" y="58" key="CommitChangelistDialog2" timestamp="1582952504572">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="566" y="58" key="CommitChangelistDialog2/0.0.1368.872@0.0.1368.872" timestamp="1582952504572" />
     <state x="262" y="103" key="DiffContextDialog" timestamp="1582566317806">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="262" y="103" key="DiffContextDialog/0.0.1368.872@0.0.1368.872" timestamp="1582566317806" />
-    <state x="647" y="184" key="FileChooserDialogImpl" timestamp="1582949314073">
+    <state x="647" y="184" key="FileChooserDialogImpl" timestamp="1582956727013">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="647" y="184" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1582949314073" />
+    <state x="647" y="184" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1582956727013" />
     <state x="860" y="351" width="355" height="170" key="Github.CreateGistDialog" timestamp="1577982662083">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
@@ -532,22 +641,22 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="492" y="141" key="Github.UntrackedFilesDialog/0.0.1368.872@0.0.1368.872" timestamp="1577982999613" />
-    <state width="696" height="218" key="GridCell.Tab.0.bottom" timestamp="1582558008394">
+    <state width="740" height="224" key="GridCell.Tab.0.bottom" timestamp="1582966480721">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="696" height="218" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1582558008394" />
-    <state width="696" height="218" key="GridCell.Tab.0.center" timestamp="1582558008394">
+    <state width="740" height="224" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1582966480721" />
+    <state width="740" height="224" key="GridCell.Tab.0.center" timestamp="1582966480721">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="696" height="218" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1582558008394" />
-    <state width="696" height="218" key="GridCell.Tab.0.left" timestamp="1582558008393">
+    <state width="740" height="224" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1582966480721" />
+    <state width="740" height="224" key="GridCell.Tab.0.left" timestamp="1582966480720">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="696" height="218" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1582558008393" />
-    <state width="696" height="218" key="GridCell.Tab.0.right" timestamp="1582558008394">
+    <state width="740" height="224" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1582966480720" />
+    <state width="740" height="224" key="GridCell.Tab.0.right" timestamp="1582966480721">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="696" height="218" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1582558008394" />
+    <state width="740" height="224" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1582966480721" />
     <state width="675" height="267" key="GridCell.Tab.1.bottom" timestamp="1582393546281">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
@@ -564,22 +673,22 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state width="675" height="267" key="GridCell.Tab.1.right/0.0.1368.872@0.0.1368.872" timestamp="1582393546281" />
-    <state x="368" y="161" width="912" height="711" key="SettingsEditor" timestamp="1582950489946">
+    <state x="368" y="161" width="912" height="711" key="SettingsEditor" timestamp="1582956848110">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="368" y="161" width="912" height="711" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1582950489946" />
-    <state x="277" y="170" key="Vcs.Push.Dialog.v2" timestamp="1582952304098">
+    <state x="368" y="161" width="912" height="711" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1582956848110" />
+    <state x="277" y="170" key="Vcs.Push.Dialog.v2" timestamp="1582952506888">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="277" y="170" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1582952304098" />
+    <state x="277" y="170" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1582952506888" />
     <state x="640" y="115" width="574" height="659" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1582952188569">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="640" y="115" width="574" height="659" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1368.872@0.0.1368.872" timestamp="1582952188569" />
-    <state x="722" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1582952129675">
+    <state x="722" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1582953563369">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="722" y="262" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1582952129675" />
+    <state x="722" y="262" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1582953563369" />
     <state x="483" y="125" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1577885125840">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
@@ -592,10 +701,10 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="695" y="126" width="509" height="659" key="dock-window-1/0.0.1368.872@0.0.1368.872" timestamp="1582386293983" />
-    <state x="562" y="259" key="git4idea.merge.GitMergeDialog" timestamp="1582565844722">
+    <state x="562" y="259" key="git4idea.merge.GitMergeDialog" timestamp="1582953849200">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="562" y="259" key="git4idea.merge.GitMergeDialog/0.0.1368.872@0.0.1368.872" timestamp="1582565844722" />
+    <state x="562" y="259" key="git4idea.merge.GitMergeDialog/0.0.1368.872@0.0.1368.872" timestamp="1582953849200" />
     <state x="572" y="309" key="git4idea.ui.GitTagDialog" timestamp="1582565818729">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
