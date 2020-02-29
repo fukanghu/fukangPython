@@ -477,7 +477,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582951982148</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="by fukang">
+      <created>1582952301788</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1582952301788</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -501,10 +508,10 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="573" y="284" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1368.872@0.0.1368.872" timestamp="1582434984516" />
-    <state x="566" y="58" key="CommitChangelistDialog2" timestamp="1582951981222">
+    <state x="566" y="58" key="CommitChangelistDialog2" timestamp="1582952300979">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="566" y="58" key="CommitChangelistDialog2/0.0.1368.872@0.0.1368.872" timestamp="1582951981222" />
+    <state x="566" y="58" key="CommitChangelistDialog2/0.0.1368.872@0.0.1368.872" timestamp="1582952300979" />
     <state x="262" y="103" key="DiffContextDialog" timestamp="1582566317806">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
@@ -561,10 +568,10 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="368" y="161" width="912" height="711" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1582950489946" />
-    <state x="277" y="170" key="Vcs.Push.Dialog.v2" timestamp="1582951984370">
+    <state x="277" y="170" key="Vcs.Push.Dialog.v2" timestamp="1582952304098">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="277" y="170" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1582951984370" />
+    <state x="277" y="170" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1582952304098" />
     <state x="640" y="115" width="574" height="659" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1582952188569">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
