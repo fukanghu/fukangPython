@@ -2,6 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb7ca2c7-9c59-444d-9858-ef80332ebe0b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/MachineLearning/Jupyter/.ipynb_checkpoints/MySQL_Learning-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearning/Jupyter/MySQL_Learning.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL/note.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL/v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonLearning/WangDana/Django/note.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonLearning/WangDana/spider/note5.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/fukangPython.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fukangPython.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,18 +59,18 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/PythonLearning" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="com.maddyhome.idea.vim.ui.VimEmulationConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\fukan\PycharmProjects\fukangPython\PythonLearning" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\fukan\PycharmProjects\fukangPython\PythonLearning" />
       <recent name="C:\Users\fukan\PycharmProjects\fukangPython\PythonLearning\WangDana" />
+      <recent name="C:\Users\fukan\PycharmProjects\fukangPython\PythonLearning" />
       <recent name="C:\Users\fukan\PycharmProjects\fukangPython\python学习" />
       <recent name="C:\Users\fukan\PycharmProjects\fukangPython\spider" />
       <recent name="C:\Users\fukan\PycharmProjects\fukangPython\高级_包管理" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\fukan\PycharmProjects\fukangPython\PythonLearning" />
     </key>
   </component>
   <component name="RunManager" selected="Python.k_data_query_history">
@@ -456,7 +464,21 @@
       <option name="project" value="LOCAL" />
       <updated>1582565507730</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="by fukang">
+      <created>1582566126976</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1582566126976</updated>
+    </task>
+    <task id="LOCAL-00038" summary="by fukang">
+      <created>1582566334532</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1582566334532</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -472,22 +494,26 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="311" y="127" key="#Notifications/0.0.1368.872@0.0.1368.872" timestamp="1582289432483" />
-    <state x="556" y="99" key="#Vim_Emulation" timestamp="1582434995835">
+    <state x="556" y="99" key="#Vim_Emulation" timestamp="1582951501947">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="556" y="99" key="#Vim_Emulation/0.0.1368.872@0.0.1368.872" timestamp="1582434995835" />
+    <state x="556" y="99" key="#Vim_Emulation/0.0.1368.872@0.0.1368.872" timestamp="1582951501947" />
     <state x="573" y="284" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582434984516">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="573" y="284" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1368.872@0.0.1368.872" timestamp="1582434984516" />
-    <state x="161" y="30" key="CommitChangelistDialog2" timestamp="1582566244075">
+    <state x="566" y="58" key="CommitChangelistDialog2" timestamp="1582566333819">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="161" y="30" key="CommitChangelistDialog2/0.0.1368.872@0.0.1368.872" timestamp="1582566244075" />
-    <state x="647" y="184" key="FileChooserDialogImpl" timestamp="1581326792896">
+    <state x="566" y="58" key="CommitChangelistDialog2/0.0.1368.872@0.0.1368.872" timestamp="1582566333819" />
+    <state x="262" y="103" key="DiffContextDialog" timestamp="1582566317806">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="647" y="184" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1581326792896" />
+    <state x="262" y="103" key="DiffContextDialog/0.0.1368.872@0.0.1368.872" timestamp="1582566317806" />
+    <state x="647" y="184" key="FileChooserDialogImpl" timestamp="1582949314073">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="647" y="184" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1582949314073" />
     <state x="860" y="351" width="355" height="170" key="Github.CreateGistDialog" timestamp="1577982662083">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
@@ -532,18 +558,18 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state width="675" height="267" key="GridCell.Tab.1.right/0.0.1368.872@0.0.1368.872" timestamp="1582393546281" />
-    <state x="368" y="161" width="912" height="711" key="SettingsEditor" timestamp="1582566231657">
+    <state x="368" y="161" width="912" height="711" key="SettingsEditor" timestamp="1582950489946">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="368" y="161" width="912" height="711" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1582566231657" />
-    <state x="277" y="170" key="Vcs.Push.Dialog.v2" timestamp="1582566129227">
+    <state x="368" y="161" width="912" height="711" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1582950489946" />
+    <state x="277" y="170" key="Vcs.Push.Dialog.v2" timestamp="1582566350331">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="277" y="170" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1582566129227" />
-    <state x="722" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1582565495830">
+    <state x="277" y="170" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1582566350331" />
+    <state x="722" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1582951825345">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="722" y="262" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1582565495830" />
+    <state x="722" y="262" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1582951825345" />
     <state x="483" y="125" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1577885125840">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
